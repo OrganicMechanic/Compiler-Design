@@ -1,0 +1,12 @@
+void main()
+{
+   double dd
+   int x, y
+   x = d6
+   y = 3 d 6
+   x :=: y
+   dd = 3.14 d 6
+   return
+}
+
+//	Test Output:[expect a type error on line 8]

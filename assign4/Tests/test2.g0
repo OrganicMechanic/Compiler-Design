@@ -1,0 +1,13 @@
+int fib(int i)
+{
+   return 11
+}
+
+int main()
+{
+   int i
+   i = 0 + fib
+   return 0
+}
+
+//	Test Output:[expect type error to + on line 9]

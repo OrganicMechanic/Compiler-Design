@@ -1,0 +1,25 @@
+class Foo {
+double dd
+Foo()
+{
+  dd = 5.5
+}
+int fib(int i)
+{
+   double x
+   x = dd * 2.0
+   return 11
+}
+}
+
+int main()
+{
+   Foo f
+   int i
+   i = 0 + f.fib(3)
+   i = 5
+   i = f.fib("hello")
+   return 0
+}
+
+//	Test Output:[expect type error to method param on line 21]
