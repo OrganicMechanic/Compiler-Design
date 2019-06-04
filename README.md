@@ -1,6 +1,8 @@
 # Compiler-Design
 My work for the Compiler Design class at the University of Idaho.
 
+This compiler works on a toy-language called g0, which is a subset of Godiva, which stands for GOal-DIrected jaVA. Godiva, and subsequently g0, were designed and written by Dr. Clint Jeffery at the University of Idaho.
+
 To any students who are taking the class and would like to use my work, go for it. Just know a few things:
 
 1. A ton of my work was based off of the work of other people, and I credited them as such. Dr. J didn't have an issue with it, but credit MUST be given to avoid plagerism. I included the names of the people who's work I used as a base for my own in the header comments of each file.
