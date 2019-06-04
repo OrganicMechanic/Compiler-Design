@@ -1,0 +1,5 @@
+* Tasks
+** DONE Finish [[http://www2.cs.uidaho.edu/~jeffery/courses/445/hw1.html][Homework #1]]
+** TODO flyweight pattern for repeated strings
+** TODO Respect include guards(?)
+** TODO Add libraries to their own struct(?)
